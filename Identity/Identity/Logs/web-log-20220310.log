@@ -120,3 +120,32 @@ System.InvalidOperationException: The relative page path './ForgotPassword' can 
 2022-03-10 03:36:57.929 +06:00 [INF] Currently Index Page
 2022-03-10 03:37:09.752 +06:00 [INF] User logged in.
 2022-03-10 03:37:09.792 +06:00 [INF] Currently Index Page
+2022-03-10 11:41:23.695 +06:00 [INF] Application Starting Up
+2022-03-10 11:41:26.323 +06:00 [INF] Currently Index Page
+2022-03-10 11:42:01.614 +06:00 [INF] User created a new account with password.
+2022-03-10 11:42:01.787 +06:00 [INF] Currently Index Page
+2022-03-10 11:44:17.037 +06:00 [INF] Application Starting Up
+2022-03-10 11:44:19.384 +06:00 [INF] Currently Index Page
+2022-03-10 11:45:27.278 +06:00 [INF] Application Starting Up
+2022-03-10 11:45:29.492 +06:00 [INF] Currently Index Page
+2022-03-10 11:45:32.808 +06:00 [INF] User Logged out
+2022-03-10 11:45:33.985 +06:00 [INF] Currently Index Page
+2022-03-10 11:46:15.637 +06:00 [INF] User created a new account with password.
+2022-03-10 11:46:15.792 +06:00 [INF] Currently Index Page
+2022-03-10 11:47:16.869 +06:00 [INF] User Logged out
+2022-03-10 11:48:05.831 +06:00 [INF] Application Starting Up
+2022-03-10 11:48:07.970 +06:00 [INF] Currently Index Page
+2022-03-10 11:48:35.485 +06:00 [INF] User logged in.
+2022-03-10 11:48:35.531 +06:00 [INF] Currently Index Page
+2022-03-10 11:48:38.277 +06:00 [INF] User Logged out
+2022-03-10 11:49:46.349 +06:00 [INF] Application Starting Up
+2022-03-10 11:49:48.621 +06:00 [INF] Currently Index Page
+2022-03-10 11:50:40.493 +06:00 [INF] User logged in.
+2022-03-10 11:50:40.540 +06:00 [INF] Currently Index Page
+2022-03-10 11:50:44.384 +06:00 [INF] User Logged out
+2022-03-10 11:51:01.261 +06:00 [INF] Currently Index Page
+2022-03-10 11:51:03.932 +06:00 [INF] Currently Index Page
+2022-03-10 13:45:56.474 +06:00 [INF] Application Starting Up
+2022-03-10 13:46:02.052 +06:00 [INF] Currently Index Page
+2022-03-10 13:46:50.092 +06:00 [INF] User logged in.
+2022-03-10 13:46:55.498 +06:00 [INF] Currently Index Page
