@@ -1,4 +1,5 @@
 ﻿using Membership.Entities;
+using Membership.Seeds;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -35,8 +36,8 @@ namespace Membership.DbContexts
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            //builder.Entity<Role>()
-            //    .HasData(DataSeed.Roles);
+            builder.Entity<Role>()
+                .HasData(RoleSeed.Roles);
 
             base.OnModelCreating(builder);
         }
